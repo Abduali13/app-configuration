@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48a3257b-8966-48c6-9cbe-ec26e81038d4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/kimyo-project-dev.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-249ae16d76d6-e8693060" />
         <option value="jdk-19.0.2-corretto-19.0.2-3183f394aec4-a73a9aee" />
       </set>
     </attachedChunks>
@@ -89,6 +91,10 @@
       <workItem from="1702384446527" duration="1609000" />
       <workItem from="1702403520792" duration="356000" />
       <workItem from="1702403910781" duration="230000" />
+      <workItem from="1702722037361" duration="2175000" />
+      <workItem from="1702981961525" duration="1136000" />
+      <workItem from="1703158864516" duration="1271000" />
+      <workItem from="1703177019588" duration="10000" />
     </task>
     <servers />
   </component>
