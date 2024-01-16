@@ -4502,6 +4502,7 @@ false Zulu
     </table>
     <table id="304" parent="271" name="publishers">
       <ObjectId>23005</ObjectId>
+      <Outdated>1</Outdated>
       <StateNumber>44366</StateNumber>
       <AccessMethodId>2</AccessMethodId>
       <OwnerName>kimyo_user</OwnerName>
@@ -5612,6 +5613,7 @@ false Zulu
     <foreign-key id="468" parent="304" name="fk58myc4onyyxh3n6qr3x5x80as">
       <ColNames>book_id</ColNames>
       <ObjectId>23072</ObjectId>
+      <Outdated>1</Outdated>
       <StateNumber>44372</StateNumber>
       <RefKeyColPositions>1</RefKeyColPositions>
       <RefTableId>22950</RefTableId>
@@ -5620,6 +5622,7 @@ false Zulu
       <ColNames>publisher_id</ColNames>
       <NameSurrogate>1</NameSurrogate>
       <ObjectId>23011</ObjectId>
+      <Outdated>1</Outdated>
       <Primary>1</Primary>
       <StateNumber>44360</StateNumber>
       <Unique>1</Unique>
@@ -5628,6 +5631,7 @@ false Zulu
     <key id="470" parent="304" name="publishers_pkey">
       <NameSurrogate>1</NameSurrogate>
       <ObjectId>23012</ObjectId>
+      <Outdated>1</Outdated>
       <Primary>1</Primary>
       <StateNumber>44360</StateNumber>
       <UnderlyingIndexId>23011</UnderlyingIndexId>
